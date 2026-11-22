@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stddef.h>
 
 /* Define system states */
 typedef enum
